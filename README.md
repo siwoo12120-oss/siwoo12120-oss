@@ -68,6 +68,6 @@
 
 ## 6. 연락처 및 기타 (Contact & Links)
 
-- **이메일:** [your-email@example.com]
+- **이메일:** [loglim.139@naver.com]
 - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 - **GitHub:** [github.com/YOUR_GITHUB_ID](https://github.com/YOUR_GITHUB_ID)
