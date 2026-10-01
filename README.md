@@ -50,19 +50,11 @@
 
 ### 학술 및 대외 활동
 - **[연구실 / 학회 / 개발 동아리명]** [se랩실]
-- **[해커톤 / 경진대회명]** [해커톤관련 수상]
+- **[해커톤 / 경진대회명]** []
 
 ### 자격증
 - **[자격증명 (sqld자격증,1종운전면허,리눅스2급)]** | (`2026.05.15`)
 
----
-
-## 5. 깃허브 통계 (GitHub Metrics)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=flat&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=flat&hide_border=true" height="150" alt="Top Languages" />
-</div>
 
 ---
 
@@ -70,4 +62,4 @@
 
 - **이메일:** [loglim.139@naver.com]
 - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **GitHub:** [github.com/YOUR_GITHUB_ID](https://github.com/YOUR_GITHUB_ID)
+- **GitHub:** [https://github.com/siwoo12120-oss)
